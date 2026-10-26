@@ -14,13 +14,27 @@ postgress download
 -ORM is a technique that automatically maps Java objects to database tables (and object fields to table columns), so you work with objects and the framework writes the SQL for you.
 -ORM is on top of JDBC.
 
+-
 
 
 
 
+********************************************************* xml based  *************************************************************
+-operations with sql, and postgress.
+-
+
+
+********************************************* annotation based *************************************************************
+- utility
+-entity
+-rollback
+-transaction
+-
 
 
 ********************************************************** HiberNet  end **********************************************************
 
-need to ask
+
+
+************************************************** need to ask  **********************************************
 
